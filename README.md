@@ -8,7 +8,7 @@ Tony Stark : Well sorry for that word Jarvis, anyway, regarding your program —
 
 Jarvis : Well, kinda Mr Stark.
 
-Tony Stark : Have something to drink perhaps, Vodka maybe?!
+Tony Stark : Have something to drink perhaps, Vodka maybe?! Ups, sorry, I forgot you don't eat or drink — AI /robot kinda curse though!? 
 
 Tic_Tac_Toe_For_Fun-in-Python
 =============
