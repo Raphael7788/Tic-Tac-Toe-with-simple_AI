@@ -1,13 +1,14 @@
 Simple Joke explanation of what is this program all about :
 ==================================
-Tony Stark : Hi, Jarvis, so what kind of game you just made?
+Tony Stark : Hi, Jarvis, so what kind of fucking game you just made?
 
-Jarvis : Hi Mr. Stark, good to hear your voice again. Did you win fight the ugly Thanos? Anyway, about this game; Well, basically, while you are in the other galaxy, fighting the ugly Thanos; me, myself in the Stark Tower created a simple-boring game that almost all programmer could make. Basically, a simple Artificial Intelligence Mr. Stark.
+Jarvis : Hi Mr. Stark, good to hear your voice again (kinda bit rude though Mr. Stark). Did you win fight the ugly Thanos? Anyway, about this game; Well, basically, while you are in the other galaxy, fighting the ugly Thanos; me, myself in the Stark Tower created a simple-boring game that almost all programmer could make. Basically, a simple Artificial Intelligence Mr. Stark.
 
-Tony Stark : Well, you definitely had a boring time when I went to other Galaxy with the other Avengers member for fighting the shitty-balls-face Thanos.
+Tony Stark : Well sorry for that word Jarvis, anyway, regarding your program — you definitely had a boring time when I went to other Galaxy with the other Avengers member for fighting the shitty-balls-face Thanos.
 
 Jarvis : Well, kinda Mr Stark.
 
+Tony Stark : Have something to drink perhaps, Vodka maybe?!
 
 Tic_Tac_Toe_For_Fun-in-Python
 =============
